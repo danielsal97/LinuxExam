@@ -1,0 +1,164 @@
+    1  ls
+    2  sudo apt update
+    3  sudo apt full-upgrade
+    4  clear
+    5  sudo apt full-desktop
+    6  apt install ubuntu-desktop
+    7  sudo apt install ubuntu-desktop
+    8  reboot
+    9  mkdir ex1
+   10  cd ex1/
+   11  touch plot.py
+   12  sudo apt python
+   13  sudo apt python3
+   14  python plot.py
+   15  python3 plot.py
+   16  sudo apt matplotlib
+   17  sudo apt-get install python3-matplotlib
+   18  python3 plot.py
+   19  Python3 plot.py outpic1.jpg students 10 20 22 5 26 30 10 10 40 50 70 25
+   20  python3 plot.py outpic1.jpg students 10 20 22 5 26 30 10 10 40 50 70 25
+   21  python3 plot.py outpic1.jpg "Students" 10 20 22 5 26 30 10 10 40 50 70 25
+   22  python3 plot.py outpic2.jpg "Students" 10 20 22 5 26 30 10 10 40 50 70 25
+   23  python3 plot.py outpic1.jpg students 10 20 22 5 26 30 10 10 40 50 70 25
+   24  python3 plot.py outpic2.jpg "Students" 10 20 22 5 26 30 10 10 4
+   25  touch groupdata.txt
+   26  touch generateimagessh
+   27  touch generateimages.sh
+   28  chmod +x generateimages.sh 
+   29  ./generateimages.sh groupdata.txt 
+   30  rm *.png
+   31  rm *.jpg
+   32  ./generateimages.sh groupdata.txt 
+   33  sudo apt update
+   34  sudo apt install snapd
+   35  sudo snap install --classic code
+   36  sudo apt install code
+   37  sudo snap install --classic codeCopied!
+   38  sudo snap install --classic code
+   39  ls
+   40  cd Downloads/
+   41  ls
+   42  sudo dpkg -i code_1.82.0-1694039253_amd64.deb 
+   43  curl -L https://aka.ms/linux-arm64-deb > code_arm64.deb
+   44  sudo apt install ./code_arm64.deb
+   45  code --disable-extensions
+   46  cd ..
+   47  ls
+   48  cd linuxCourse/hw3/
+   49  ls
+   50  code .
+   51  mkdir linuxCourse
+   52  cd linuxCourse/
+   53  mkdir hw3
+   54  cd hw3/
+   55  code .
+   56  wget https://github.com/Tel-Hai-Linux-Exam/EXAMA/archive/refs/tags/download.tar.gz
+   57  >
+   58  rm -r *
+   59  [200~mkdir -p {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs{Q1,Q2,Q3,Q4}}
+   60  mkdir -p {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs{Q1,Q2,Q3,Q4}}
+   61  rm -r *
+   62  mkdir -p {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs/{Q1,Q2,Q3,Q4}}
+   63  rm -r *
+   64  mkdir -p {History Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} Outputs/{Q1,Q2,Q3,Q4}}
+   65  rm -r *
+   66  mkdir -p History Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} Outputs/{Q1,Q2,Q3,Q4}
+   67  wget Resorces/Downloads/https://github.com/Telhai-Git/Exam/archive/refs/tags/f1.tar.gz
+   68  rm -r *
+   69  ~
+   70  mkdir LinuxExam
+   71  cd LinuxExam/
+   72  git init
+   73  git -m init
+   74  code .
+   75  mkdir {History,Resorces/[Images Data Downloads] Code/[Python Java NodeJs] mkdir  Outputs[Q1 Q2 Q3 Q4]
+   76  mkdir History Resorces/{Images,Data,Downloads} Code/{Python,Java,NodeJs} Outputs{Q1,Q2,Q3,Q4}
+   77  mkdir {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs{Q1,Q2,Q3,Q4}}
+   78  rm *
+   79  rM -r *
+   80  rm -r *
+   81  ls
+   82  mkdir {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs{Q1,Q2,Q3,Q4}}
+   83  rm -r *
+   84  mkdir -p {History ,Resorces/{Images,Data,Downloads}, Code/{Python,Java,NodeJs} ,Outputs{Q1,Q2,Q3,Q4}}
+   85  ls
+   86  rm -r *
+   87  mkdir -p History Resorces/{Images,Data,Downloads} Code/{Python,Java,NodeJs} Outputs{Q1,Q2,Q3,Q4}
+   88  ls
+   89  rm -r *
+   90  mkdir -p History Resorces/{Images,Data,Downloads} Code/{Python,Java,NodeJs} Outputs/{Q1,Q2,Q3,Q4}
+   91  ls
+   92  rm -r *
+   93  ls
+   94  mkdir History Resorces/{Images Data Downloads}
+   95  mkdir History Resorces/{Images ,Data ,Downloads}
+   96  rm -r *
+   97  ~
+   98  ls
+   99  cd LinuxExam/
+  100  mkdir -p History Resorces/{Images Data Downloads} Code/{Python Java NodeJS} Outputs/{Q1 Q2 Q3 Q4} 
+  101  ls
+  102  code .
+  103  rm -r *
+  104  mkdir -p History Resorces/{Images Data Downloads} Code/{Python Java NodeJS} Outputs/{Q1 Q2 Q3 Q4} 
+  105  cd ..
+  106  mkdir LinuxExam//{History,Resorces/{Images,Data,Downloads},Code/{Python,Java,NodeJs},Outputs/{Q1,Q2,Q3,Q4}
+  107  rm -r *
+  108  mkdir -p  LinuxExam//{History,Resorces/{Images,Data,Downloads},Code/{Python,Java,NodeJs},Outputs/{Q1,Q2,Q3,Q4}
+  109  ls
+  110  cd LinuxExam/
+  111  code .
+  112  ls
+  113  mkdir -p  LinuxExam/{History, Resorces/{Images, Data, Downloads}, Code/{Python,Java,NodeJs},Outputs/{Q1,Q2,Q3,Q4}
+  114  cd Resorces/
+  115  ls
+  116  rm -r *
+  117  cd ..
+  118  rm -r *
+  119  mkdir -p Resorces{Images Data Downloads}
+  120  mkdir -p Resorces/{Images Data Downloads}
+  121  mkdir -p Resorces/[Images Data Downloads]
+  122  rm -r *
+  123  mkdir -p Resorces/[Images Data Downloads]
+  124  rm -r *
+  125  mkdir -p Resorces/{Images, Data ,Downloads}
+  126  rm -r *
+  127  mkdir Resorces
+  128  mkdir Resorces/Downloads
+  129  cd Resorces/Downloads
+  130  wget https://github.com/Telhai-Git/Exam/archive/refs/tags/f1.tar.gz
+  131  cd ..
+  132  git clone 
+  133  clear
+  134  clear history
+  135  cd Resorces/Downloads/
+  136  wget https://github.com/Telhai-Git/Exam/archive/refs/tags/f1.tar.g
+  137  wget https://github.com/Telhai-Git/Exam/archive/refs/tags/f1.tar.gz
+  138  ls
+  139  tar -xzvf f1.tar.gz 
+  140  cd ..
+  141  cp Data Downlaods/*.log.txt Downloads/*csv 
+  142  cp Data Downlaods/*.log.txt Downloads/*.csv 
+  143  cp Data Downlaods/*.log.txt 
+  144  cp Resorces/Data Downlaods/*.log.txt 
+  145  cp  Downlaods/{*.log.txt,}.*csv ] ./Data 
+  146  cp  Downlaods/{*.log.txt,*.csv} ] ./Data 
+  147  cp  Downlaods/{*.log.txt,*.csv}  ./Data 
+  148  cp  Downloads/{*.log.txt,*.csv}  ./Data 
+  149  cp  ./Downloads/{*.log.txt,*.csv}  ./Data 
+  150  cp  ./Downloads/{*.log.txt,.csv}  ./Data 
+  151  cp  ./Downloads/{*.log.txt,*.csv}  ./Data 
+  152  cp  ./Downloads/{*.log.txt,tests.csv}  ./Data 
+  153  cp  ./Downloads/Exam-f1/{*.log.txt,tests.csv}  ./Data 
+  154  mkdir $(date +%Y%m%d)
+  155  mkdir Downloads_$(date +%Y%m%d)
+  156  mv Downloads/Exam-f1/* Downloads_20230912/
+  157  rm Downloads/f1.tar.gz 
+  158  echo ls -R > ./Outputs/Q1/out1.log
+  159  echo ls -R >> ./Outputs/Q1/out1.log
+  160  ls -R
+  161  echo ls -R >> ./Outputs/Q1/out1.log
+  162  cd ..
+  163  echo ls -R >> ./Outputs/Q1/out1.log
+  164  history >> History/history_1.log
